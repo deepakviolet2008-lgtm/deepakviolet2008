@@ -70,8 +70,8 @@ Practical machine learning exercises involving regression, classification, and d
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](www.linkedin.com/in/deepak-b-0a1a7237a)
-- GitHub: [Add your GitHub profile URL](https://github.com/deepakviolet2008-lgtm)
+- LinkedIn: www.linkedin.com/in/deepak-b-0a1a7237a
+- GitHub: https://github.com/deepakviolet2008-lgtm
 
 ---
 
